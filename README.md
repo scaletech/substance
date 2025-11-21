@@ -1,2 +1,11 @@
 # substance
-Framework for ontology-driven development
+
+```text
+          _         _                       
+ ___ _   _| |__  ___| |_ __ _ _ __   ___ ___ 
+/ __| | | | '_ \/ __| __/ _` | '_ \ / __/ _ \
+\__ \ |_| | |_) \__ \ || (_| | | | | (_|  __/
+|___/\__,_|_.__/|___/\__\__,_|_| |_|\___\___|
+````
+
+A framework for ontology-driven development
