@@ -8,4 +8,4 @@
 |___/\__,_|_.__/|___/\__\__,_|_| |_|\___\___|
 ````
 
-A framework for ontology-driven development
+A framework for ontology-driven application development
